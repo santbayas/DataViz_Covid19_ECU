@@ -1,5 +1,5 @@
-Provincia,Contagios,, Latitud ,Longitud, Latitud ,Longitud,,Estables en aislamiento domiciliario,Hospitalizados estables,Hospitalizados con pronostico reservado,Casos con alta hospitalaria,Fallecidos,Sospecha
-Galapagos,11,,00ø54?00?S;89ø36?00?W;-0.9,-89.6,,3744,178,146,140,242,4208
+Provincia,Contagios,,Latitud,Longitud,Latitud,Longitud,,Estables en aislamiento domiciliario,Hospitalizados estables,Hospitalizados con pronostico reservado,Casos con alta hospitalaria,Fallecidos,Sospecha
+Galapagos,11,,00ø54?00?S,89ø36?00?W,-0.9,-89.6,,3744,178,146,140,242,4208
 Guayas,3047,,02ø10?00?S,79ø54?00?W,-2.166666667,-79.9,,,,,,,
 Sto. Domingo de los Tsachilas,44,,00ø15?00?S,79ø09?00?W,-0.25,-79.15,,,,,,,
 Esmeraldas,25,,00ø57?33?N,79ø39?14?W,0.959166667,-79.65,,,,,,,
