@@ -1,36 +1,36 @@
 Provincia,Contagios,, Latitud ,Longitud
 Galapagos,11,,-0.9,-89.6
-Guayas,3384,,-2.166666667,-79.9
-Sto. Domingo de los Tsachilas,46,,-0.25,-79.15
-Esmeraldas,27,,0.959166667,-79.65
-Manabi,159,,-1.05,-80.45
-Santa Elena,63,,-2.233333333,-80.85
-Los Rios,193,,-1.816666667,-79.51666667
-El Oro,97,,-3.266666667,-79.96666667
-Bolivar,30,,-1.6,-79
-Chimborazo,54,,-1.666666667,-78.63333333
-Imbabura,24,,0.35,-78.11666667
-Tungurahua,25,,-1.249166667,-78.61666667
-Cotopaxi,30,,-0.933333333,-78.61666667
-Pichincha,494,,-0.933333333,-78.61666667
-Carchi,15,,0.8,-77.71666667
-Canar,75,,-2.733333333,-78.83333333
-Azuay,116,,-2.883333333,-78.98333333
-Loja,49,,-3.993055556,-79.20416667
-Sucumbios,33,,0.084722222,-76.88277778
+Guayas,5281,,-2.166666667,-79.9
+Sto. Domingo de los Tsachilas,51,,-0.25,-79.15
+Esmeraldas,31,,0.959166667,-79.65
+Manabi,188,,-1.05,-80.45
+Santa Elena,74,,-2.233333333,-80.85
+Los Rios,226,,-1.816666667,-79.51666667
+El Oro,137,,-3.266666667,-79.96666667
+Bolivar,32,,-1.6,-79
+Chimborazo,65,,-1.666666667,-78.63333333
+Imbabura,32,,0.35,-78.11666667
+Tungurahua,29,,-1.249166667,-78.61666667
+Cotopaxi,33,,-0.933333333,-78.61666667
+Pichincha,579,,-0.933333333,-78.61666667
+Carchi,17,,0.8,-77.71666667
+Canar,90,,-2.733333333,-78.83333333
+Azuay,151,,-2.883333333,-78.98333333
+Loja,56,,-3.993055556,-79.20416667
+Sucumbios,34,,0.084722222,-76.88277778
 Orellana,5,,-0.333333333,-77
-Napo,2,,-0.983333333,-77.81666667
-Morona Santiago,18,,-2.898611111,-77.69916667
-Pastaza,12,,-1.466666667,-77.98333333
-Zamora Chinchipe,2,,-4.069166667,-78.95666667
+Napo,3,,-0.983333333,-77.81666667
+Morona Santiago,19,,-2.898611111,-77.69916667
+Pastaza,13,,-1.466666667,-77.98333333
+Zamora Chinchipe,4,,-4.069166667,-78.95666667
 ,,,,
 ,,,,
-TOTAL,4965,,,
-FECHA,9/4/2020,,,
+TOTAL,7161,,,
+FECHA,10/4/2020,,,
 ,,,,
-Estables en aislamiento domiciliario,4019,,,
-Hospitalizados estables,196,,,
-Hospitalizados con pron¢stico reservado.,139,,,
-Casos con alta hospitalaria,339,,,
-Fallecidos,272,,,
-Sospecha,4674,,,
+Estables en aislamiento domiciliario,6102,,,
+Hospitalizados estables,223,,,
+Hospitalizados con pron¢stico reservado.,171,,,
+Casos con alta hospitalaria,368,,,
+Fallecidos,297,,,
+Sospecha,6496,,,
