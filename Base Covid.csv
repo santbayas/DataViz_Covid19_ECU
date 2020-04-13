@@ -1,36 +1,36 @@
 Provincia,Contagios,, Latitud ,Longitud
 Galapagos,11,,-0.9,-89.6
-Guayas,5290,,-2.166666667,-79.9
-Sto. Domingo de los Tsachilas,55,,-0.25,-79.15
-Esmeraldas,31,,0.959166667,-79.65
-Manabi,204,,-1.05,-80.45
-Santa Elena,74,,-2.233333333,-80.85
-Los Rios,227,,-1.816666667,-79.51666667
-El Oro,149,,-3.266666667,-79.96666667
+Guayas,5381,,-2.166666667,-79.9
+Sto. Domingo de los Tsachilas,60,,-0.25,-79.15
+Esmeraldas,38,,0.959166667,-79.65
+Manabi,214,,-1.05,-80.45
+Santa Elena,77,,-2.233333333,-80.85
+Los Rios,239,,-1.816666667,-79.51666667
+El Oro,150,,-3.266666667,-79.96666667
 Bolivar,33,,-1.6,-79
-Chimborazo,65,,-1.666666667,-78.63333333
-Imbabura,32,,0.35,-78.11666667
-Tungurahua,36,,-1.249166667,-78.61666667
-Cotopaxi,36,,-0.933333333,-78.61666667
-Pichincha,606,,-0.933333333,-78.61666667
-Carchi,23,,0.8,-77.71666667
-Canar,94,,-2.733333333,-78.83333333
-Azuay,154,,-2.883333333,-78.98333333
-Loja,59,,-3.993055556,-79.20416667
+Chimborazo,74,,-1.666666667,-78.63333333
+Imbabura,33,,0.35,-78.11666667
+Tungurahua,42,,-1.249166667,-78.61666667
+Cotopaxi,42,,-0.933333333,-78.61666667
+Pichincha,627,,-0.933333333,-78.61666667
+Carchi,24,,0.8,-77.71666667
+Canar,97,,-2.733333333,-78.83333333
+Azuay,178,,-2.883333333,-78.98333333
+Loja,65,,-3.993055556,-79.20416667
 Sucumbios,33,,0.084722222,-76.88277778
-Orellana,5,,-0.333333333,-77
-Napo,4,,-0.983333333,-77.81666667
+Orellana,6,,-0.333333333,-77
+Napo,6,,-0.983333333,-77.81666667
 Morona Santiago,19,,-2.898611111,-77.69916667
 Pastaza,13,,-1.466666667,-77.98333333
 Zamora Chinchipe,4,,-4.069166667,-78.95666667
 ,,,,
 ,,,,
-TOTAL,7257,,,
-FECHA,11/4/2020,,,
+TOTAL,7466,,,
+FECHA,13/4/2020,,,
 ,,,,
-Estables en aislamiento domiciliario,6102,,,
-Hospitalizados estables,223,,,
-Hospitalizados con pron¢stico reservado.,171,,,
-Casos con alta hospitalaria,368,,,
-Fallecidos,297,,,
-Sospecha,6496,,,
+Estables en aislamiento domiciliario,6267,,,
+Hospitalizados estables,196,,,
+Hospitalizados con pron¢stico reservado.,169,,,
+Casos con alta hospitalaria,501,,,
+Fallecidos,333,,,
+Descartados,7118,,,
